@@ -1,0 +1,10 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "firstName": "Richy",
+      "lastName": "Great",
+      "email": "richygreat@gmail.com"
+    }
+  ]
+}
